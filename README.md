@@ -1,4 +1,6 @@
-# iQB2: Structural Biology Modlule
+# UCSB: iQB2 - Structural Biology Modlule
+
+![banner](banner/banner.png)
 
 ## General Information
 
