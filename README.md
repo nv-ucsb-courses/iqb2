@@ -18,7 +18,7 @@ Be aware that the in-class iClicker activities will count towards your grades. I
 ## Grading
 20% Participation including iClicker polls and quizzes, 25% Practicals, 25% Presentation, 30% written Homework
 
-### Presentation Format
+## Presentation Format
 15 minutes presentation (sharp), + 5 minutes for questions. Papers can either be selected from the list provided 
 [here](https://www.dropbox.com/scl/fo/kv4v3au5fki352e3mszg8/h?rlkey=8nesful6u3hpb1r26u5x9wdly&dl=0) (first come first serve) 
 or from the general literature upon approval by the instructor. 
