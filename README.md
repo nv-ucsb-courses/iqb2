@@ -27,7 +27,7 @@ As you can see, the schedule is pretty tight. Please make sure you do not go ove
 
 Here is the Python code I used to get the randomized list:
 
-```ruby
+```python
 from random import shuffle
 lst = [i[:-1] for i in open('student_list.txt').readlines()]
 shuffle (lst)
