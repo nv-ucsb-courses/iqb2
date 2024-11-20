@@ -2,6 +2,41 @@
 
 ![banner](banner/banner.png)
 
+## Presentation Order
+
+| Name               |  Time          |  Paper |
+|--------------------|----------------|--------|
+| **Kat**            |  10:00 - 10:20 | CryoCLEM: Anderson et al. 2017 |
+| **Alejandra**      |  10:20 - 10:40 | Bacteriophage: Leiman et al. 2004 |
+| **Timothy**        |  10:40 - 11:00 | Ribosome: Jobe et al. 2019 |
+| *Break*            |  11:00 - 11:10 |   |
+| **Anna**           |  11:10 - 11:30 | CryoFIB: Rigort et al. 2010 |
+| **Anthony**        |  11:30 - 11:50 | RNA: Bonilla & Kieft 2022 |
+| **Chris**          |  11:50 - 12:10 | SARS-CoV-2: Barcena et al. 2020 |
+| *Lunch Break*      |  12:10 - 1:00  |   |
+| **Fillan**         |  1:00 - 1:20   | CryoDRGN: Zhong et al. 2021 |
+| **Cuiyi**          |  1:20 - 1:40   | 200kV: Wu et al. 2020 |
+| **Sichu**          |  1:40 - 2:00   | Bacteriophage: Hu et al. 2015 |
+| **Dallin**         |  2:00 - 2:20   | Graphene: Liu et al. 2019 |
+| *Break*            |  2:20 - 2:40   |   |
+| **Mira**           |  2:40 - 3:00   | BetaGal: Bartesaghi et al. 2015 |
+| **Andrew**         |  3:00 - 3:20   | Proteasone: Asano et al. 2015 |
+| **Ben**            |  3:20 - 3:40   | EVs: Koifman et al. 2017 |
+
+As you can see, the schedule is pretty tight. Please make sure you do not go over your alloted time, otherwise I will have to cut you off. 
+
+Here is the Python code I used to get the randomized list:
+
+```ruby
+from random import shuffle
+lst = [i[:-1] for i in open('student_list.txt').readlines()]
+shuffle (lst)
+for name in lst: print(name)
+```
+
+
+
+
 ## General Information
 
 |               | Name                  | Email                    | 
@@ -35,7 +70,7 @@ The following is the approximate schedule for this course. Exact order is subjec
 |Friday	| 11/15	| Lecture	| Short Break	| Lecture	| Lunch Break	| CryoEM Sample Prep Lab Visit |
 |Monday	| 11/18	| Lecture	| Short Break	| Lecture	| Lunch Break	| Processing Practicals |
 |Tuesday	| 11/19	| Lecture	| Short Break	| Lecture	| Lunch Break	| Processing Practicals |
-|Thursday	| 11/21	| Lecture	| Short Break	| Presentations	| Lunch Break	| Presentations |
-|Friday	| 11/22	| Lecture	| Short Break	| Practicals	| Lunch Break	| CryoEM Facility Visit |
+|Thursday	| 11/21	| Presentations	| Short Break	| Presentations	| Lunch Break	| Presentations |
+|Friday	| 11/22	| Lecture	| Short Break	| CryoEM Facility Visit	| Lunch Break	| Practicals |
 
 
