@@ -4,7 +4,7 @@
 
 ## Homework
 
-Homework was posted [here](https://github.com/nv-ucsb-courses/iqb2/tree/main/homework). Due on December 2nd.
+Homework was posted [here](https://github.com/nv-ucsb-courses/iqb2/tree/main/homework). Return by email by December 2nd, 11:59PM.
 
 ## Presentation Order
 
