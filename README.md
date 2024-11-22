@@ -2,6 +2,10 @@
 
 ![banner](banner/banner.png)
 
+## Homework
+
+Homework was posted [here](https://github.com/nv-ucsb-courses/iqb2/tree/main/homework). Due on December 2nd.
+
 ## Presentation Order
 
 | Name               |  Time          |  Paper |
